@@ -26,3 +26,5 @@
 * Documentation: Swagger
 * Build Tool: Maven
 * Deployment: AWS Elastic Beanstalk (for production with auto-scaling and load balancing)
+
+ # Contact: ideepaksharma5735@gmail.com
