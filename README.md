@@ -19,7 +19,7 @@
 * Swagger Integration: API documentation and testing are facilitated through Swagger (configured with SwaggerConfig).
 * Environment-Specific Configurations: Uses separate configuration files (application-dev.properties and application-prod.properties) tailored for development and AWS production environments.
 
-#Technologies Used
+# Technologies Used
 * Backend Framework: Spring Boot, Spring MVC
 * Security: Spring Security, JWT
 * Persistence: Spring Data JPA, Hibernate, MySQL
